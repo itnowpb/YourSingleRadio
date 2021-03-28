@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1098292415110",
+    "project_id": "tbgradio-759f2",
+    "storage_bucket": "tbgradio-759f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098292415110:android:029c50fd930a8b994c9f07",
+        "android_client_info": {
+          "package_name": "com.app.yoursingleradio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098292415110-gnk5mha9b1cj3uqd2k9209m5a941rjts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5fV_ddeIu6e2ZT9GTf1KhTn7FodCqOzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098292415110-gnk5mha9b1cj3uqd2k9209m5a941rjts.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
